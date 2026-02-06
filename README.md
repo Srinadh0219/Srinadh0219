@@ -65,15 +65,13 @@ Strong in frontend + backend integration with modern tooling.
 ## 📊 GitHub Stats (Aqua Neon)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinadh0219&show_icons=true&theme=react&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinadh0219&theme=react&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinadh0219&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinadh0219&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinadh0219&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinadh0219&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🐍 Contribution Graph Animation
 
