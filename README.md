@@ -17,7 +17,7 @@
 ## 🧠 About Me
 
 ```txt
-Computer Science Student | Full Stack Developer (MERN Stack)
+Computer Science Student | Full Stack Developer 
 Focused on building clean, scalable, and user-centric web applications.
 Strong in frontend + backend integration with modern tooling.
 ```
