@@ -2,7 +2,7 @@
 
 <!-- 🌊 Aqua Glow Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Srinadh%20Thatikrindhi&fontAlign=50&fontAlignY=40&color=0:020024,50:090979,100:00d4ff&fontColor=7fffd4&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Srinadh%20Thatikrindhi&fontAlign=50&fontAlignY=40&color=0:2C3E50,100:FD746C&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- ⌨️ Aqua Neon Typing Animation -->
