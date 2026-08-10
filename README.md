@@ -10,6 +10,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;Software+Engineer;Always+Building+%26+Learning" />
 </p>
 
+<!-- 🔗 Portfolio Link -->
+<p align="center">
+  <a href="https://srinadhportfolioo.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-00E5FF?style=for-the-badge&logo=Web&logoColor=black&color=0D1117&labelColor=00E5FF" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -27,9 +34,9 @@
 
 <p align="center">
   <strong>🎨 Frontend Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs&theme=dark" /><br/><br/>
   <strong>⚙️ Backend & Programming Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,c,py&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,c,py&theme=dark" /><br/><br/>
   <strong>🗄️ Databases (SQL & NoSQL)</strong><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /><br/><br/>
   <strong>🛠️ Tools & DevOps</strong><br/>
@@ -41,12 +48,12 @@
 ## 📊 GitHub Analytics 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinadh0219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinadh0219&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinadh0219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinadh0219&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinadh0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinadh0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ## 🐍 Contribution Graph Animation
