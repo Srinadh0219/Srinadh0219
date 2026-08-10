@@ -45,13 +45,11 @@
 ## 📊 GitHub Analytics 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinadh0219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinadh0219&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinadh0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
-</p>
+
 
 ## 🐍 Contribution Graph Animation
 
