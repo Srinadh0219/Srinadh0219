@@ -5,15 +5,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Srinadh%20Thatikrindhi&fontAlign=50&fontAlignY=40&color=0:2C3E50,100:FD746C&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60&animation=twinkling" />
 </p>
 
-<!-- ⌨️ Aqua Neon Typing Animation -->
+<!-- ⌨️ Aqua Neon Typing Animation & Portfolio Button -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;Software+Engineer;Always+Building+%26+Learning" />
-</p>
-
-<!-- 🔗 Portfolio Link -->
-<p align="center">
+  <br/>
   <a href="https://srinadhportfolioo.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-00E5FF?style=for-the-badge&logo=Web&logoColor=black&color=0D1117&labelColor=00E5FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00E5FF?style=for-the-badge&logoColor=black&color=0D1117&labelColor=00E5FF" alt="Portfolio" />
   </a>
 </p>
 
@@ -48,12 +45,12 @@
 ## 📊 GitHub Analytics 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinadh0219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinadh0219&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinadh0219&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinadh0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinadh0219&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🐍 Contribution Graph Animation
@@ -72,10 +69,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srinadh-thatikrindhi-b0b844323/">
-    <img src="https://img.shields.io/badge/LinkedIn-7FFFD4?style=for-the-badge&logo=linkedin&logoColor=000&logoWidth=20&padding=10" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Srinadh0219">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000&logoWidth=20&padding=10" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://srinadhportfolioo.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio" />
   </a>
 </p>
 
