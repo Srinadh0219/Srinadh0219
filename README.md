@@ -1,84 +1,39 @@
-<!-- ===================== GITHUB PROFILE README ===================== -->
-
-<!-- 🌊 Aqua Glow Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Srinadh%20Thatikrindhi&fontAlign=50&fontAlignY=40&color=0:2C3E50,100:FD746C&fontColor=FFFFFF&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60&animation=twinkling" />
-</p>
-
-<!-- ⌨️ Aqua Neon Typing Animation & Portfolio Button -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;Software+Engineer;Always+Building+%26+Learning" />
-  <br/>
-  <a href="https://srinadhportfolioo.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00E5FF?style=for-the-badge&logoColor=black&color=0D1117&labelColor=00E5FF" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-## 🧠 About Me
-
 <div align="center">
-  <code>Computer Science Student</code> • <code>Full Stack Developer</code> • <code>Problem Solver</code>
+
+  <!-- 🌟 Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,30:0052D4,70:4364F7,100:00E5FF&height=240&section=header&text=Srinadh%20Thatikrindhi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descFontSize=20&descAlign=50&animation=twinkling" width="100%" />
+
+  <!-- ⚡ Typing SVG Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Building+Scalable+%26+Modern+Apps;React+%7C+Next.js+%7C+Node.js+%7C+Express;Clean+Code+%26+Database+Architect;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
+  </a>
+
   <br/><br/>
-  <em>Focused on building clean, scalable, and user-centric web applications.</em><br/>
-  <em>Passionate about both beautiful user interfaces and robust database architectures.</em>
+
+  <!-- 🚀 Quick Action / Social Badges -->
+  <a href="https://srinadhportfolioo.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00E5FF?style=for-the-badge&logoColor=0D1117&labelColor=0D1117&color=00E5FF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/srinadh-thatikrindhi-b0b844323/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Srinadh0219" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+  </a>
+
 </div>
 
----
-
-## 🚀 Tech Stack & Skills
-
-<p align="center">
-  <strong>🎨 Frontend Development</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs&theme=dark" /><br/><br/>
-  <strong>⚙️ Backend & Programming Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,c,py&theme=dark" /><br/><br/>
-  <strong>🗄️ Databases (SQL & NoSQL)</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /><br/><br/>
-  <strong>🛠️ Tools & DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-</p>
+<br/>
 
 ---
 
-## 📊 GitHub Analytics 
+### 👨‍💻 About Me
 
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srinadh0219&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak" />
-</p>
-
-
-
-## 🐍 Contribution Graph Animation
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srinadh0219/Srinadh0219/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srinadh0219/Srinadh0219/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Srinadh0219/Srinadh0219/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/srinadh-thatikrindhi-b0b844323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Srinadh0219">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://srinadhportfolioo.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Srinadh0219&label=Profile%20Views&color=00E5FF&style=flat-square" />
-</p>
-
-<!-- ===================== END ===================== -->
+```yaml
+name: Srinadh Thatikrindhi
+role: Full Stack Developer & CS Undergrad
+current_focus: Building High-Performance Web Applications & Scalable Backend Systems
+passions: [Clean Architecture, UI/UX Craftsmanship, Database Optimization, Open Source]
+status: Open to exciting engineering opportunities & collaborations 🚀
