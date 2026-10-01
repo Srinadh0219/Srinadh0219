@@ -1,15 +1,10 @@
 <div align="center">
 
-  <!-- 🌟 Animated Hero Header (Instant & 100% Reliable on GitHub) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=75&lines=Hi%2C+I'm+Srinadh+Thatikrindhi+⚡;Full+Stack+Developer+%7C+AI+Engineer" alt="Srinadh Thatikrindhi" />
-  </a>
+  <!-- 🌟 Native High-Res Title (100% Reliable on GitHub) -->
+  <h1>👋 Hey there! I'm <span style="color:#00E5FF;">Srinadh Thatikrindhi</span> ⚡</h1>
 
-  <!-- ⚡ Subtitle Animation -->
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=800&color=9BB2CE&center=true&vCenter=true&width=700&lines=📱+Web+%26+Mobile+Developer+(React+%7C+Next.js+%7C+React+Native);🤖+Exploring+AI%2C+Machine+Learning+%26+LLM+Agents;⚙️+Scalable+Backend+Systems+%26+Database+Architecture;☁️+DevOps%2C+Azure+%26+Modern+Developer+Tooling" alt="Sub-Typing SVG" />
-  </a>
+  <!-- ⚡ Clean Animated Typing Subtitle -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+%26+Mobile+Developer;AI%2C+Machine+Learning+%26+LLMs+Explorer;React+|+Next.js+|+React+Native+|+Node.js;Cloud%2C+DevOps+%26+Database+Architecture;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
 
   <br/><br/>
 
