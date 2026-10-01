@@ -1,15 +1,19 @@
-<!-- ==================== HEADER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:4364F7&height=220&section=header&text=Srinadh%20Thatikrindhi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Software%20Engineer&descAlignY=58&descFontSize=19&descAlign=50" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
+  <!-- 🌟 Animated Hero Header (Instant & 100% Reliable on GitHub) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+%26+Mobile+Developer;AI+%7C+Machine+Learning+%7C+LLMs+Explorer;React+%7C+Next.js+%7C+React+Native+%7C+Node.js;Cloud+%26+DevOps+Enthusiast;Clean+Code+%26+System+Design;Always+Building+%26+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=75&lines=Hi%2C+I'm+Srinadh+Thatikrindhi+⚡;Full+Stack+Developer+%7C+AI+Engineer" alt="Srinadh Thatikrindhi" />
   </a>
-</p>
 
-<p align="center">
+  <!-- ⚡ Subtitle Animation -->
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=800&color=9BB2CE&center=true&vCenter=true&width=700&lines=📱+Web+%26+Mobile+Developer+(React+%7C+Next.js+%7C+React+Native);🤖+Exploring+AI%2C+Machine+Learning+%26+LLM+Agents;⚙️+Scalable+Backend+Systems+%26+Database+Architecture;☁️+DevOps%2C+Azure+%26+Modern+Developer+Tooling" alt="Sub-Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 🚀 Social Badges -->
   <a href="https://srinadhportfolioo.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -21,7 +25,10 @@
   <a href="https://github.com/Srinadh0219" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+
+</div>
+
+<br/>
 
 ---
 
@@ -130,8 +137,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Srinadh0219&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4364F7,100:0D1117&height=100&section=footer" width="100%" />
 </p>
